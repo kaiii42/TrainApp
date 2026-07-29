@@ -63,7 +63,7 @@ docker build --no-cache -t trainapp-admin:v4 .
 
 Tunggu hingga proses build selesai tanpa error.
 
-#6. Membuat Docker Network
+# 6. Membuat Docker Network
 
 Buat network Docker:
 
